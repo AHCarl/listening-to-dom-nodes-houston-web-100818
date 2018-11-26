@@ -9,6 +9,5 @@ main.addEventListener('click', function(event) {
 });
 
 input.addEventListener('keydown', function(e){
-  console.log(e.which)
-})
-
+  console.log(e.which);
+});
